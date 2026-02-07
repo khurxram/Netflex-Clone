@@ -5,6 +5,7 @@ Simple Netflix-style landing page clone built with HTML and CSS only.
 ## Demo
 
 Open `index.html` in your browser.
+Or open this link: https://khurxram.github.io/Netflex-Clone/
 
 ## Tech Stack
 
